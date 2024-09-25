@@ -70,7 +70,7 @@ pip install opencv-python mediapipe numpy pycaw comtypes
 
 ### 📂 Project Structure
 ```
-├── career_mentor.py           # Main Python file for volume control
+├── volume_control_using_hand_gesture.py           # Main Python file for volume control
 ├── README.md                  # Project documentation
 └── .gitignore                 # Git ignore file
 ```
